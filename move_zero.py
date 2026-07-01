@@ -1,4 +1,5 @@
 #moves all the zeros to end
+
 def move_zeros(nums):
     result = []
     zeros = 0
